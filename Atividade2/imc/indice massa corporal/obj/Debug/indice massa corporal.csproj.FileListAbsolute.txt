@@ -1,0 +1,9 @@
+C:\Users\gabri\source\repos\imc\indice massa corporal\bin\Debug\indice massa corporal.exe.config
+C:\Users\gabri\source\repos\imc\indice massa corporal\bin\Debug\indice massa corporal.exe
+C:\Users\gabri\source\repos\imc\indice massa corporal\bin\Debug\indice massa corporal.pdb
+C:\Users\gabri\source\repos\imc\indice massa corporal\obj\Debug\indice massa corporal.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\imc\indice massa corporal\obj\Debug\indice_massa_corporal.Form1.resources
+C:\Users\gabri\source\repos\imc\indice massa corporal\obj\Debug\indice_massa_corporal.Properties.Resources.resources
+C:\Users\gabri\source\repos\imc\indice massa corporal\obj\Debug\indice massa corporal.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\imc\indice massa corporal\obj\Debug\indice massa corporal.exe
+C:\Users\gabri\source\repos\imc\indice massa corporal\obj\Debug\indice massa corporal.pdb

@@ -1,0 +1,9 @@
+C:\Users\gabri\source\repos\Triangulos\Triangulos\bin\Debug\Triangulos.exe.config
+C:\Users\gabri\source\repos\Triangulos\Triangulos\bin\Debug\Triangulos.exe
+C:\Users\gabri\source\repos\Triangulos\Triangulos\bin\Debug\Triangulos.pdb
+C:\Users\gabri\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.Form1.resources
+C:\Users\gabri\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.Properties.Resources.resources
+C:\Users\gabri\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.exe
+C:\Users\gabri\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.pdb

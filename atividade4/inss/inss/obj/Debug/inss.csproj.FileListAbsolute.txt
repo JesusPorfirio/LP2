@@ -1,0 +1,9 @@
+C:\Users\gabri\source\repos\inss\inss\bin\Debug\inss.exe.config
+C:\Users\gabri\source\repos\inss\inss\bin\Debug\inss.exe
+C:\Users\gabri\source\repos\inss\inss\bin\Debug\inss.pdb
+C:\Users\gabri\source\repos\inss\inss\obj\Debug\inss.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\inss\inss\obj\Debug\inss.Form1.resources
+C:\Users\gabri\source\repos\inss\inss\obj\Debug\inss.Properties.Resources.resources
+C:\Users\gabri\source\repos\inss\inss\obj\Debug\inss.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\inss\inss\obj\Debug\inss.exe
+C:\Users\gabri\source\repos\inss\inss\obj\Debug\inss.pdb

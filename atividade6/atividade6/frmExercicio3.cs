@@ -27,7 +27,7 @@ namespace atividade6
             if (tamanho < 50)
             {
 
-                frase = frase.ToLower();
+                frase = frase.ToUpper();
                 Array.Reverse(reverso);
 
                 foreach (char letra in reverso)

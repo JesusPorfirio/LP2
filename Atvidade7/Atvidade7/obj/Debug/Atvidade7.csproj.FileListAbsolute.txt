@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\bin\Debug\Atvidade7.exe.config
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\bin\Debug\Atvidade7.exe
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\bin\Debug\Atvidade7.pdb
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\obj\Debug\Atvidade7.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\obj\Debug\Atvidade7.Form1.resources
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\obj\Debug\Atvidade7.Properties.Resources.resources
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\obj\Debug\Atvidade7.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\obj\Debug\Atvidade7.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\obj\Debug\Atvidade7.exe
+C:\Users\gabri\source\repos\Atvidade7\Atvidade7\obj\Debug\Atvidade7.pdb

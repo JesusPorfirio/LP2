@@ -143,5 +143,45 @@ namespace Atvidade7
                 MessageBox.Show(myAL[x].ToString());
             }
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            double media = 0, nota = 0;
+            string[,] NomeNota = new string[20,4];
+            string Ajudante = "";
+            
+            for (var x = 0; x<20; x++)
+            {
+                NomeNota[x,0]= Interaction.InputBox("Nome do aluno na posição: " + (x + 1), "Nome: ");
+                
+                if (NomeNota[x, 0].Equals("")) { break; }
+
+                for (var y = 1; y < 4; y++)
+                {
+
+                    NomeNota[x, y] = Interaction.InputBox("Nota " + (y), "Nota: ");
+                    if (double.TryParse(NomeNota[x, y], out nota))
+                    {
+                        media = media + nota;
+                    }
+                    else {
+                        MessageBox.Show("Informe uma nota correta!");
+                        y--;
+                    }
+                }
+                Ajudante += "Nome: " + NomeNota[x, 0] + " Media: " + (media / 3) + "\n";
+            }
+            MessageBox.Show(Ajudante);
+        }
+
+        private void bttEx7_Click(object sender, EventArgs e)
+        {
+            Form fifi = Application.OpenForms["frmEx7"];
+
+            if (fifi != null) { fifi.Close(); }
+
+            Form frm = new frmEx7();
+            frm.Show();
+        }
     }
 }

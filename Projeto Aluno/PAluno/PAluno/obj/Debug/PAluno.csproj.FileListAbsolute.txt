@@ -1,0 +1,12 @@
+C:\Users\gabri\source\repos\PAluno\PAluno\obj\Debug\PAluno.frmPrincipal.resources
+C:\Users\gabri\source\repos\PAluno\PAluno\obj\Debug\PAluno.frmCidade.resources
+C:\Users\gabri\source\repos\PAluno\PAluno\obj\Debug\PAluno.frmSobre.resources
+C:\Users\gabri\source\repos\PAluno\PAluno\obj\Debug\PAluno.Properties.Resources.resources
+C:\Users\gabri\source\repos\PAluno\PAluno\obj\Debug\PAluno.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\PAluno\PAluno\obj\Debug\PAluno.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\PAluno\PAluno\obj\Debug\PAluno.frmAluno.resources
+C:\Users\gabri\source\repos\PAluno\PAluno\bin\Debug\PAluno.exe.config
+C:\Users\gabri\source\repos\PAluno\PAluno\bin\Debug\PAluno.exe
+C:\Users\gabri\source\repos\PAluno\PAluno\bin\Debug\PAluno.pdb
+C:\Users\gabri\source\repos\PAluno\PAluno\obj\Debug\PAluno.exe
+C:\Users\gabri\source\repos\PAluno\PAluno\obj\Debug\PAluno.pdb
